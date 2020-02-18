@@ -1,0 +1,5 @@
+# Deep-learning---homework1
+Three machine learning methods including linear regression, decision tree, and support vector machine were used to 
+distinguish the numbers. SVM perfoms the best with an accuracy of 97.92%. This accuracy is similar to or even a little bit 
+better than that of the neural network example. Linear regression, however, cannot predict the numbers accurately with a
+correlation coefficient of 0.624. Decisiosn tree has an accuray of 0.877. 
